@@ -16,9 +16,6 @@
   <a href="https://linkedin.com/in/muhammad-ibrahim" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/923094087881" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -36,4 +33,4 @@ experience: 4+ Years
 focus: ["React", "Next.js", "Node.js", "PostgreSQL", "MongoDB", "Frappe ERPNext"]
 currently_at: ETS Devices (Full Stack Developer)
 education: B.S. Computer Science (Lahore Garrison University, 2020-2024)
-contact: +92 309 408 7881 | codingbyibrahim@gmail.com
+contact: | codingbyibrahim@gmail.com
