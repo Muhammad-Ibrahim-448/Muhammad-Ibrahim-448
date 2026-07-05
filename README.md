@@ -19,16 +19,11 @@
 
 # 📊 GitHub Stats
 
-<!-- Total Commits + All Stats -->
-![](https://github-readme-stats.vercel.app/api?username=Muhammad-Ibrahim-448&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&custom_title=Total%20Commits%20%26%20Stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Muhammad-Ibrahim-448&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ibrahim-448&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ibrahim-448&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Current Daily Streak + Longest Streak -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ibrahim-448&theme=dark&hide_border=false)
-
-<!-- Contribution Graph (Shows daily activity visually) -->
-![](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ibrahim-448&theme=react-dark&hide_border=true&area=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ibrahim-448&theme=dark&hide_border=false&mode=weekly)
 
 # 📈 Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ibrahim-448&theme=react-dark&hide_border=true&area=true)
