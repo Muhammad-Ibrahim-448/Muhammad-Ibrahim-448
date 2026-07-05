@@ -1,13 +1,3 @@
-# 💫 About Me:
-name: Muhammad Ibrahim&lt;br&gt;
-role: Full Stack Developer&lt;br&gt;
-location: Lahore, Pakistan&lt;br&gt;
-experience: 4+ Years&lt;br&gt;
-focus: ["React", "Next.js", "Node.js", "PostgreSQL", "MongoDB", "Frappe ERPNext"]&lt;br&gt;
-currently_at: ETS Devices (Full Stack Developer)&lt;br&gt;
-education: B.S. Computer Science (Lahore Garrison University, 2020-2024)&lt;br&gt;
-contact: codingbyibrahim@gmail.com
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codingbyibrahim) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ibrahim-1838a31a7) 
@@ -28,20 +18,20 @@ contact: codingbyibrahim@gmail.com
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ibrahim-448&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%" /&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ibrahim-448&theme=dark&hide_border=false" alt="GitHub Streak" width="48%" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ibrahim-448&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ibrahim-448&theme=dark&hide_border=false" alt="GitHub Streak" width="48%" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ibrahim-448&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ibrahim-448&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ibrahim-448&theme=github-dark&hide_border=false" alt="Activity Graph" width="90%" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ibrahim-448&theme=github-dark&hide_border=false" alt="Activity Graph" width="90%" />
+</p>
 
 ---
 [![](https://komarev.com/ghpvc/?username=Muhammad-Ibrahim-448&icon=0&color=0)](https://visitcount.itsvg.in)
 
-&lt;!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --&gt;
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
