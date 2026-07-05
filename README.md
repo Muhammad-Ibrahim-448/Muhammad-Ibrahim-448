@@ -1,6 +1,15 @@
 # 💫 About Me:
-name: Muhammad Ibrahim&lt;br&gt;role: Full Stack Developer&lt;br&gt;location: Lahore, Pakistan&lt;br&gt;experience: 4+ Years&lt;br&gt;focus: ["React", "Next.js", "Node.js", "PostgreSQL", "MongoDB", "Frappe ERPNext"]&lt;br&gt;currently_at: ETS Devices (Full Stack Developer)&lt;br&gt;education: B.S. Computer Science (Lahore Garrison University, 2020-2024)&lt;br&gt;contact: | codingbyibrahim@gmail.com
 
+**Name:** Muhammad Ibrahim  
+**Role:** Full Stack Developer  
+**Location:** Lahore, Pakistan  
+**Experience:** 4+ Years  
+**Focus:** React, Next.js, Node.js, PostgreSQL, MongoDB, Frappe ERPNext  
+**Currently at:** ETS Devices (Full Stack Developer)  
+**Education:** B.S. Computer Science (Lahore Garrison University, 2020-2024)  
+**Contact:** codingbyibrahim@gmail.com
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codingbyibrahim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ibrahim-1838a31a7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@codingbyibrahim1318) 
@@ -14,4 +23,4 @@ name: Muhammad Ibrahim&lt;br&gt;role: Full Stack Developer&lt;br&gt;location: La
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ibrahim-448&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Muhammad-Ibrahim-448&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Muhammad-Ibrahim-448&color=0e75b6)](https://visitcount.itsvg.in)
