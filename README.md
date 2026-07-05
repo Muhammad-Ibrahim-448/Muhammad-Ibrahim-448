@@ -28,8 +28,5 @@
 # 📈 Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ibrahim-448&theme=react-dark&hide_border=true&area=true)
 
-# 💻 Top Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ibrahim-448&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
-
 
 [![](https://komarev.com/ghpvc/?username=Muhammad-Ibrahim-448&color=0e75b6)](https://visitcount.itsvg.in)
