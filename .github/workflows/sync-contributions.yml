@@ -2,8 +2,8 @@ name: Sync Contribution Graph from IbrahimDev-creator
 
 on:
   schedule:
-    - cron: '0 2 * * *'  # Runs daily at 2 AM UTC
-  workflow_dispatch:  # Allows manual trigger
+    - cron: '0 2 * * *'
+  workflow_dispatch:
 
 jobs:
   sync-contributions:
@@ -12,14 +12,7 @@ jobs:
       - name: Checkout Muhammad-Ibrahim-448 repo
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Fetch contribution graph from IbrahimDev-creator
-        run: |
-          # Generate contribution graph SVG using GitHub's API
-          curl -s "https://github.com/users/IbrahimDev-creator/contributions" \
-            -H "Accept: text/html" \
-            -o contributions_raw.html
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Generate Contribution SVG
         uses: Platane/snk@v3
@@ -36,7 +29,7 @@ jobs:
 
           ## Contribution Graph from IbrahimDev-creator
           
-          ### ðŸŸ© Activity Overview
+          ### 🟩 Activity Overview
           ![IbrahimDev-creator's Contribution Graph](https://raw.githubusercontent.com/Muhammad-Ibrahim-448/Muhammad-Ibrahim-448/main/dist/github-contribution-grid-snake.svg#gh-light-mode-only)
           ![IbrahimDev-creator's Contribution Graph](https://raw.githubusercontent.com/Muhammad-Ibrahim-448/Muhammad-Ibrahim-448/main/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
           
@@ -47,8 +40,8 @@ jobs:
 
       - name: Commit and Push
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "Muhammad-Ibrahim-448"
+          git config user.email "Muhammad-Ibrahim-448@users.noreply.github.com"
           git add README.md dist/
-          git diff --quiet && git diff --staged --quiet || git commit -m "ðŸŸ© Sync contribution graph from IbrahimDev-creator"
+          git diff --quiet && git diff --staged --quiet || git commit -m "🟩 Sync contribution graph from IbrahimDev-creator"
           git push
